@@ -47,7 +47,7 @@ SonarQube Scan → Quality Gate → Maven Package → Nexus Upload → Slack Not
 - Nexus OSS 3.x - Repository manager
 - Checkstyle 10.x - Code analyzer
 
-  ## Prerequisites
+## Prerequisites
 
 ### Required Accounts
 - AWS Account with EC2 access
