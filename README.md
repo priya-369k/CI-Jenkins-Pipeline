@@ -134,13 +134,6 @@ SonarQube Scan → Quality Gate → Maven Package → Nexus Upload → Slack Not
 - **Quality Gate Pass Rate**: >90%
 - **Code Coverage**: >80% maintained
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on:
-- Code of conduct
-- Development workflow
-- Pull request process
-- Coding standards
 
 ## Troubleshooting
 
@@ -155,7 +148,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 **Issue**: Nexus upload authentication failure
 - **Solution**: Regenerate credentials; verify deployment user permissions
 
-See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for comprehensive debugging guide.
 
 ## Best Practices Implemented
 
